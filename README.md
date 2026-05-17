@@ -4,7 +4,7 @@
 - Passionate about technology and leadership.
 
 ## Contact Me
-You can reach me on [LinkedIn](https://www.linkedin.com/in/jude-sajith/)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/janardhika-mahendran/)
 
 ## GitHub Stats
 ![Janardhika246's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janardhika246&count_private=true&show_icons=true&theme=radical)
