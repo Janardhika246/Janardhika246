@@ -1,23 +1,56 @@
-# 👋 Hi, I’m @Janardhika246
+👋 Hi, I'm Janardhika Mahendran
 
-- A.I product Lead @ Qnetwork INC
-- Passionate about technology and leadership.
+🚀 AI/ML Enthusiast | Full-Stack Developer | Software Engineer | CIS Undergraduate
 
-## Contact Me
-You can reach me on [LinkedIn](https://www.linkedin.com/in/janardhika-mahendran/)
+💡 About Me
 
-## GitHub Stats
-![Janardhika246's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janardhika246&count_private=true&show_icons=true&theme=radical)
+I am a passionate Computing and Information Systems (CIS) undergraduate focused on building intelligent, scalable, and real-world applications.
+I enjoy working at the intersection of Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janardhika246&count_private=true&theme=radical)
+🎓 CIS Undergraduate
+🤖 AI/ML enthusiast
+🌐 Full-Stack Developer
+🚀 Love building real-world impactful projects
+📚 Always learning and improving
+🛠️ Tech Stack
+💻 Programming Languages
+Java
+Python
+JavaScript
+HTML / CSS
+🧠 AI / ML
+Machine Learning (Basics to Intermediate)
+Data Preprocessing
+Model Building & Evaluation
+Python ML Libraries
+🌐 Web Development
+React (Basic/Intermediate)
+Node.js
+Express.js
+Flask
+REST APIs
+🗄️ Databases
+MySQL
+SQLite
+🔧 Tools & Platforms
+Git & GitHub
+VS Code
+Postman
+MySQL Workbench
+🚀 What I'm Working On
+AI-powered web applications
+Smart PDF / Chat-based systems
+Full-stack MERN & Flask projects
+Machine learning mini-projects
+📈 Goals
+Become a strong AI Software Engineer
+Build production-level AI systems
+Contribute to open-source projects
+Improve system design & architecture skills
+📫 Connect With Me
+📧 Email: janardhika246@gmail.com
+📱 Contact: 0772647766
+💼 [LinkedIn](https://www.linkedin.com/in/janardhika-mahendran/)
+💼 Open to internships & collaboration opportunities
 
-## Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Janardhika246&theme=radical)
-
-
-
-<!---
-Janardhika246/Janardhika246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ "Building intelligent systems that solve real-world problems."
