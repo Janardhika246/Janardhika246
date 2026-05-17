@@ -69,8 +69,8 @@ I enjoy working at the intersection of Artificial Intelligence, Machine Learning
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: janardhika246@gmail.com  
-- 📱 Contact: 0772647766  
+- 📧 Email: janardhika@gmail.com  
+- 📱 Contact: 0752647766  
 - 💼 LinkedIn: https://www.linkedin.com/in/janardhika-mahendran/  
 
 ---
